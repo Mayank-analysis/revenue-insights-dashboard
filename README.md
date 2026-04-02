@@ -21,10 +21,10 @@ This project analyzes business revenue data to identify key trends, performance 
 - Interactive filters  
 
 ## 📷 Dashboard Preview
-![Dashboard](revenue-dashboard.png)
+![Dashboard](https://github.com/Mayank-analysis/revenue-insights-dashboard/blob/main/revenue-dashboard.png.jpeg)
 
 ## 📁 Project File
-Power BI file is available in this repository.
+Download Power BI file here (https://github.com/Mayank-analysis/revenue-insights-dashboard/blob/main/Revenue%20Insights%20project.pbit)
 
 ## 🎯 Conclusion
 This project helps in understanding revenue performance and identifying key business drivers to improve profitability and growth.
